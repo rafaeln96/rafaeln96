@@ -1,14 +1,37 @@
 # Olá! Eu sou o Rafael Nunes. 👋
 <div align="center">
   <a href="https://github.com/rafaeln96">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaeln96&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeln96&layout=compact&langs_count=7&theme=merko"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaeln96&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeln96&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+## 
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://www.w3.org/html/" rel="nofollow">
+  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://www.w3schools.com/css/" rel="nofollow">
+  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </a>
+  <a href="https://www.python.org/" rel="nofollow">
+  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  </a>
+  <a href="https://www.jetbrains.com/pt-br/pycharm/download" rel="nofollow">
+  <img align="center" alt="Rafael-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+  </a>
+  <a href="https://code.visualstudio.com/" rel="nofollow">
+  <img align="center" alt="Rafael-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </a>
+  <a href="https://www.adobe.com/br/products/photoshop.html" rel="nofollow">
+  <img align="center" alt="Rafael-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  </a>
+  <a href="https://slack.com/intl/pt-br/" rel="nofollow">
+  <img align="center" alt="Rafael-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  </a>
 </div>
 
 ##
