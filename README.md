@@ -8,7 +8,7 @@
 ## 
 
 <div style="display: inline_block"><br>
-  <a href="https://www.w3.org/html/" rel="nofollow">
+  <a href="https://www.w3schools.com/html/" rel="nofollow">
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   </a>
   <a href="https://www.w3schools.com/css/" rel="nofollow">
