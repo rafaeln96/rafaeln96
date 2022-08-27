@@ -1,4 +1,12 @@
-# Olá! Eu sou o Rafael Nunes. 👋
+# Olá! Seja bem-vindo ao meu perfil do GitHub. 👋
+
+📚 Estudante de Ánalise e Desenvolvimento de Sitemas
+<br>🎮 Apaixonado por tecnologia 
+<br>💙 Fã do Curso em Vídeo
+<br>👨‍🎓 Aprendendo um pouco sobre front-end e back-and
+
+##
+
 <div align="center">
   <a href="https://github.com/rafaeln96">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaeln96&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
