@@ -1,6 +1,8 @@
+<img src = "https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width = "100px" align="right">
+
 # Olá! Seja bem-vindo ao meu perfil do GitHub. 👋
 
-📚 Estudante de Ánalise e Desenvolvimento de Sitemas
+📚 Estudante de Ánalise e Desenvolvimento de Sistemas
 <br>🎮 Apaixonado por tecnologia 
 <br>💙 Fã do Curso em Vídeo
 <br>👨‍🎓 Aprendendo um pouco sobre front-end e back-and
