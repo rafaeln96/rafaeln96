@@ -2,10 +2,9 @@
 
 # Olá! Seja bem-vindo ao meu perfil do GitHub. 👋
 
-📚 Estudante de Ánalise e Desenvolvimento de Sistemas
+📚 Formado de Ánalise e Desenvolvimento de Sistemas
 <br>🎮 Apaixonado por tecnologia 
-<br>💙 Fã do Curso em Vídeo
-<br>👨‍🎓 Aprendendo um pouco sobre front-end e back-and
+<br>👨‍🎓 Aprendendo sobre front-end e back-and
 <br>
 <br>
 <a href="https://www.linkedin.com/in/rafaeln96/" target="_blank" rel="nofollow">
