@@ -2,7 +2,7 @@
 
 # Olá! Seja bem-vindo ao meu perfil do GitHub. 👋
 
-📚 Formado de Ánalise e Desenvolvimento de Sistemas
+📚 Ánalise e Desenvolvimento de Sistemas
 <br>🎮 Apaixonado por tecnologia 
 <br>👨‍🎓 Aprendendo sobre front-end e back-and
 <br>
