@@ -4,7 +4,7 @@
 
 📚 Ánalise e Desenvolvimento de Sistemas
 <br>🎮 Apaixonado por tecnologia 
-<br>👨‍🎓 Aprendendo sobre front-end e back-and
+<br>👨‍🎓 Mobile & Full Stack Developer
 <br>
 <br>
 <a href="https://www.linkedin.com/in/rafaeln96/" target="_blank" rel="nofollow">
